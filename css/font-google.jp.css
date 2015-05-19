@@ -1,0 +1,46 @@
+/*
+* Noto Sans Japanese (japanese) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 100;
+  src: url('./../fonts/Thin.woff'),url('./../fonts/Thin.eot');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 200;
+  src: url('./../fonts/Light.woff'),url('./../fonts/Light.eot');
+}
+@font-face {
+   font-family: 'Noto Sans Japanese';
+   font-style: normal;
+   font-weight: 300;
+   src:   url('./../fonts/DemiLight.woff'),url('./../fonts/DemiLight.eot');   
+}
+@font-face {
+   font-family: 'Noto Sans Japanese';
+   font-style: normal;
+   font-weight: 400;
+   src:   url('./../fonts/Regular.woff'),url('./../fonts/Regular.eot');   
+ }
+@font-face {
+   font-family: 'Noto Sans Japanese';
+   font-style: normal;
+   font-weight: 500;
+   src:   url('./../fonts/Medium.woff'),url('./../fonts/Medium.eot');   
+ }
+@font-face {
+   font-family: 'Noto Sans Japanese';
+   font-style: normal;
+   font-weight: 700;
+   src:   url('./../fonts/Bold.woff'),url('./../fonts/Bold.eot');   
+ }
+@font-face {
+   font-family: 'Noto Sans Japanese';
+   font-style: normal;
+   font-weight: 900;
+   src:   url('./../fonts/Black.woff'),url('./../fonts/Black.eot');   
+ }
+ 
