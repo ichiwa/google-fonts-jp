@@ -1,5 +1,5 @@
 # google-fonts-jp
-google 日本語フォント
+google 日本語Webフォント(Noto Sans Japanese)
 
 # ライセンス
 Apache License, Version 2.0
